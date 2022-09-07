@@ -1,3 +1,7 @@
+# ToDo-App_React
+
+Aplication to manage personal tasks (ToDo's). You can add, mark as done, delete, filter tasks.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
